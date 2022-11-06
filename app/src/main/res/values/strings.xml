@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UTS</string>
+    <string-array name="planets_array">
+        <item>Cihampelas</item>
+        <item>Cibiru</item>
+        <item>Cianjur</item>
+        <item>Bekasi</item>
+    </string-array>
+    <string name="sendiri">Ambil sendiri</string>
+    <string name="fastdeliv">Fast Delivery</string>
+    <string name="please_fill_your_name">Please fill your name</string>
+    <string name="submit">Submit</string>
+    <string name="see_menus">See Menus</string>
+    <string name="todo">TODO</string>
+    <string name="steak_cocok_bagi_anda_yang_ingin_merasakan_lezatnya_daging_steak_dipadukan_dengan_kentang_yang_lezat">Steak Cocok bagi anda yang ingin merasakan lezatnya daging steak dipadukan dengan kentang yang lezat</string>
+    <string name="pizza_cocok_bagi_anda_yang_ingin_merasakan_pizza_original_dengan_taburan_keju_dan_daging_asap_yang_lezat">Pizza Cocok bagi anda yang ingin merasakan pizza original dengan taburan keju dan daging asap yang lezat</string>
+    <string name="spaghetti_cocok_bagi_anda_yang_ingin_merasakan_spaghetti_original_dengan_bumbu_yang_oriental">Spaghetti Cocok bagi anda yang ingin merasakan spaghetti original dengan bumbu yang oriental</string>
+</resources>
